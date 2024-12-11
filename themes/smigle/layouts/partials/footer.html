@@ -1,0 +1,16 @@
+<footer>
+  <hr />
+  {{ if .Site.Params.social }}
+    <p id="social">
+      Through The Time Network:
+      <br />
+      {{ range $i, $e := .Site.Params.social }}
+        {{ if $i }} | {{ end }}
+        <a href="{{ .url }}">{{ .name }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+  <p class="copyright">
+    Copyright © 2088-2089
+    <a href="{{ .Site.BaseURL }}"><strong>{{ default "Blog Author" .Site.Params.Author }}</strong></a>.
+</footer>
