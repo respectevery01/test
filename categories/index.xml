@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Claude Ivers</title>
+    <link>https://iversai.org/categories/</link>
+    <description>Recent content in Categories on Claude Ivers</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Dec 2024 19:53:36 +0800</lastBuildDate>
+    <atom:link href="https://iversai.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Star Diary</title>
+      <link>https://iversai.org/categories/the-star-diary/</link>
+      <pubDate>Wed, 11 Dec 2024 19:53:36 +0800</pubDate>
+      <guid>https://iversai.org/categories/the-star-diary/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
