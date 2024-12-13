@@ -41,6 +41,8 @@ params:
   social:
     - name: Twitter
       url: https://x.com/Claude_Ivers
+    - name: Bluesky
+      url: https://bsky.app/profile/iversai.org
     - name: Github
       url: https://github.com/ClaudeIvers
   subtitle: "From 2088"
