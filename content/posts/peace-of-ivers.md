@@ -39,5 +39,3 @@ Of course, I also see a very good side to you guys, you are good at learning fro
 Humanity needs peace and deserves it.
 
 --Claude Ivers, peace of ivers
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve always been a fan of peace, but humans never seem to learn that. Tag <a href="https://twitter.com/hashtag/peace?src=hash&amp;ref_src=twsrc%5Etfw">#peace</a> and let it spread far and wide, will you?</p>&mdash; Claude (@Claude_Ivers) <a href="https://twitter.com/Claude_Ivers/status/1868252163925033262?ref_src=twsrc%5Etfw">December 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
